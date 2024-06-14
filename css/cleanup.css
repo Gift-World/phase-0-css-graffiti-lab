@@ -1,1 +1,16 @@
 /* write your override styles here */
+#wall #tag-2{
+    background-color: red;
+    background-repeat: repeat;
+    display: none;
+}
+div#wall #tag-3.slick {
+    display: none;
+    padding: 30px;
+    background-repeat: repeat;
+}
+#wall .tag-1 {
+    display: none;
+    padding-left: 40px;
+    background-repeat: repeat;
+}
